@@ -7,7 +7,7 @@ authors = ["tasi788 <tdc@tdccc.com.tw>"]
 [tool.poetry.dependencies]
 python = "^3.11"
 PyPtt = "^1.2.0"
-requests = "^2.31.0"
+requests = "^2.32.4"
 
 [tool.poetry.dev-dependencies]
 
